@@ -210,48 +210,56 @@ def render_team_capacity_chart(availability_pct: float):
 
 
 def render_gantt_chart(leave_request: Dict, team_context: List[Dict]):
-    """Render Gantt chart showing team schedule"""
-    # Prepare data for Gantt chart
-    tasks = []
+    """Render high-performance Gantt chart showing team schedule"""
+    # Prepare data for Plotly Timeline
+    plot_data = []
     
     # Add the current request
-    tasks.append(dict(
-        Task=f"🔴 {leave_request['emp_id']} (REQUEST)",
+    plot_data.append(dict(
+        Task=f"🔴 {leave_request['emp_id']} (REQ)",
         Start=leave_request['start'],
         Finish=leave_request['end'],
-        Resource='Requested Leave'
+        Resource='Requested Leave',
+        Color='rgb(220, 53, 69)'
     ))
     
     # Add team context
-    for idx, leave in enumerate(team_context):
-        tasks.append(dict(
+    for leave in team_context:
+        plot_data.append(dict(
             Task=f"⚫ {leave['emp_id']}",
             Start=leave['start'],
             Finish=leave['end'],
-            Resource='Already Approved'
+            Resource='Already Approved',
+            Color='rgb(108, 117, 125)'
         ))
     
-    if tasks:
-        # Convert to DataFrame
-        df = pd.DataFrame(tasks)
+    if plot_data:
+        df = pd.DataFrame(plot_data)
+        df['Start'] = pd.to_datetime(df['Start'])
+        df['Finish'] = pd.to_datetime(df['Finish'])
         
-        # Create Gantt chart
-        colors = {'Requested Leave': 'rgb(220, 53, 69)', 
-                  'Already Approved': 'rgb(108, 117, 125)'}
+        fig = go.Figure()
         
-        fig = ff.create_gantt(
-            df,
-            colors=colors,
-            index_col='Resource',
-            show_colorbar=True,
-            group_tasks=True,
-            showgrid_x=True,
-            showgrid_y=True,
-            height=400,
-            title='Team Schedule - Leave Overlap View'
+        for resource in df['Resource'].unique():
+            df_res = df[df['Resource'] == resource]
+            fig.add_trace(go.Bar(
+                base=df_res['Start'],
+                x=df_res['Finish'] - df_res['Start'],
+                y=df_res['Task'],
+                orientation='h',
+                name=resource,
+                marker_color=df_res['Color'].iloc[0],
+                hovertemplate="<b>%{y}</b><br>Start: %{base|%Y-%m-%d}<br>End: %{x|%Y-%m-%d}<extra></extra>"
+            ))
+            
+        fig.update_layout(
+            title='Team Schedule - Leave Overlap View',
+            barmode='overlay',
+            height=300 + (len(plot_data) * 20),
+            showlegend=True,
+            xaxis_type='date',
+            yaxis=dict(autorange="reversed")
         )
-        
-        fig.update_xaxes(type='date')
         return fig
     
     return None

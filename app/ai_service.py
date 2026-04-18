@@ -20,7 +20,7 @@ class AIService:
         self.configured = False
         self.model = None
         
-        if settings.gemini_api_key:
+        if settings.gemini_api_key and settings.gemini_api_key != "your_gemini_api_key_here":
             try:
                 genai.configure(api_key=settings.gemini_api_key)
                 self.model = genai.GenerativeModel('gemini-pro')
@@ -30,7 +30,11 @@ class AIService:
                 logger.error(f"❌ Failed to configure Gemini: {e}")
                 self.configured = False
         else:
-            logger.warning("⚠️  Gemini API key not provided. AI features disabled.")
+            if settings.gemini_api_key == "your_gemini_api_key_here":
+                logger.warning("⚠️  Placeholder Gemini API key detected. Using local fallback for maximum speed.")
+            else:
+                logger.warning("⚠️  Gemini API key not provided. Using local fallback.")
+            self.configured = False
     
     def is_configured(self) -> bool:
         """Check if AI service is properly configured"""
