@@ -73,42 +73,52 @@ class APIClient:
     def __init__(self, base_url: str):
         self.base_url = base_url
     
-    def _request(self, method: str, endpoint: str, **kwargs) -> Optional[Dict]:
-        """Common request helper with error handling and timeouts"""
-        url = f"{self.base_url}{endpoint}"
-        try:
-            # Standard 10s timeout for all AI-inclusive requests
-            kwargs.setdefault('timeout', 10)
-            response = requests.request(method, url, **kwargs)
-            response.raise_for_status()
-            return response.json()
-        except requests.exceptions.Timeout:
-            st.error(f"⏱️ Request to {endpoint} timed out. The server might be busy.")
-        except requests.exceptions.HTTPError as e:
-            st.error(f"❌ API Error ({response.status_code}): {e}")
-        except Exception as e:
-            st.error(f"🚨 Unexpected error connecting to {endpoint}: {e}")
-        return None
-
     def health_check(self) -> Dict:
         """Check API health"""
-        result = self._request("GET", "/health", timeout=5)
-        return result if result else {"status": "error", "message": "Connection failed"}
+        try:
+            response = requests.get(f"{self.base_url}/health", timeout=5)
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            return {"status": "error", "message": str(e)}
     
     def get_departments(self) -> List[Dict]:
         """Get list of departments"""
-        result = self._request("GET", "/api/v1/departments")
-        if result and "departments" in result:
-            return result["departments"]
-        return []
+        try:
+            response = requests.get(f"{self.base_url}/api/v1/departments")
+            response.raise_for_status()
+            return response.json()["departments"]
+        except Exception as e:
+            st.error(f"Error fetching departments: {e}")
+            return []
     
     def analyze_leave_simple(self, leave_data: Dict) -> Optional[Dict]:
         """Analyze leave request (simple mode)"""
-        return self._request("POST", "/api/v1/analyze-leave-simple", json=leave_data)
+        try:
+            response = requests.post(
+                f"{self.base_url}/api/v1/analyze-leave-simple",
+                json=leave_data,
+                timeout=10
+            )
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            st.error(f"Error analyzing leave: {e}")
+            return None
     
     def analyze_leave_full(self, leave_data: Dict) -> Optional[Dict]:
         """Analyze leave request (full mode with context)"""
-        return self._request("POST", "/api/v1/analyze-leave", json=leave_data)
+        try:
+            response = requests.post(
+                f"{self.base_url}/api/v1/analyze-leave",
+                json=leave_data,
+                timeout=10
+            )
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            st.error(f"Error analyzing leave: {e}")
+            return None
 
 
 def render_recommendation_box(recommendation: str):
