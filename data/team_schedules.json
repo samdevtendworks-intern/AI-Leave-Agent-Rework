@@ -1,0 +1,1147 @@
+{
+  "ENG_BACKEND": {
+    "team_size": 7,
+    "approved_leaves": [
+      {
+        "emp_id": "E100",
+        "start": "2026-02-13",
+        "end": "2026-02-14",
+        "reason": "Sick leave",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-04-07",
+        "end": "2026-04-10",
+        "reason": "Personal work",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-19",
+        "end": "2026-03-22",
+        "reason": "Sick leave",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-01-31",
+        "end": "2026-02-01",
+        "reason": "Personal work",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-02-27",
+        "end": "2026-02-27",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-19",
+        "end": "2026-03-19",
+        "reason": "Family emergency",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-01-30",
+        "end": "2026-02-04",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-04-10",
+        "end": "2026-04-13",
+        "reason": "Medical emergency",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-04-03",
+        "end": "2026-04-09",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-02",
+        "end": "2026-03-08",
+        "reason": "Vacation",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-02-03",
+        "end": "2026-02-07",
+        "reason": "Vacation",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-02-22",
+        "end": "2026-02-28",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-04-14",
+        "end": "2026-04-18",
+        "reason": "Sick leave",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-13",
+        "end": "2026-03-15",
+        "reason": "Family wedding",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-15",
+        "end": "2026-03-18",
+        "reason": "Vacation",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-13",
+        "end": "2026-03-15",
+        "reason": "Family emergency",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-17",
+        "end": "2026-03-17",
+        "reason": "Family wedding",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-02-09",
+        "end": "2026-02-13",
+        "reason": "Family emergency",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-03-28",
+        "end": "2026-04-03",
+        "reason": "Family wedding",
+        "dept_id": "ENG_BACKEND",
+        "status": "APPROVED"
+      }
+    ]
+  },
+  "ENG_FRONTEND": {
+    "team_size": 9,
+    "approved_leaves": [
+      {
+        "emp_id": "E100",
+        "start": "2026-01-23",
+        "end": "2026-01-23",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-03-05",
+        "end": "2026-03-11",
+        "reason": "Attending conference",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-03-04",
+        "end": "2026-03-06",
+        "reason": "Vacation",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-02-23",
+        "end": "2026-02-25",
+        "reason": "Attending conference",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-14",
+        "end": "2026-03-14",
+        "reason": "Family wedding",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-01-23",
+        "end": "2026-01-26",
+        "reason": "Vacation",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-02",
+        "end": "2026-03-08",
+        "reason": "Personal work",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-01",
+        "end": "2026-03-06",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-02-07",
+        "end": "2026-02-12",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-01-22",
+        "end": "2026-01-28",
+        "reason": "Child care",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-06",
+        "end": "2026-03-11",
+        "reason": "Vacation",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-02-23",
+        "end": "2026-02-24",
+        "reason": "Sick leave",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-12",
+        "end": "2026-03-13",
+        "reason": "Medical emergency",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-02-23",
+        "end": "2026-03-01",
+        "reason": "Family wedding",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-04-11",
+        "end": "2026-04-15",
+        "reason": "Attending conference",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-04-01",
+        "end": "2026-04-01",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-02-16",
+        "end": "2026-02-16",
+        "reason": "Medical emergency",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-02-21",
+        "end": "2026-02-23",
+        "reason": "Family emergency",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-03-04",
+        "end": "2026-03-08",
+        "reason": "Personal work",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-04-04",
+        "end": "2026-04-08",
+        "reason": "Personal work",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-03-01",
+        "end": "2026-03-02",
+        "reason": "Child care",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-01-25",
+        "end": "2026-01-31",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-03-02",
+        "end": "2026-03-02",
+        "reason": "Sick leave",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-03-02",
+        "end": "2026-03-08",
+        "reason": "Home maintenance",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-02-02",
+        "end": "2026-02-08",
+        "reason": "Medical emergency",
+        "dept_id": "ENG_FRONTEND",
+        "status": "APPROVED"
+      }
+    ]
+  },
+  "DATA_SCIENCE": {
+    "team_size": 12,
+    "approved_leaves": [
+      {
+        "emp_id": "E100",
+        "start": "2026-03-15",
+        "end": "2026-03-18",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-03-07",
+        "end": "2026-03-10",
+        "reason": "Family emergency",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-01-29",
+        "end": "2026-01-30",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-26",
+        "end": "2026-03-28",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-13",
+        "end": "2026-03-16",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-01-29",
+        "end": "2026-02-04",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-09",
+        "end": "2026-03-15",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-12",
+        "end": "2026-03-15",
+        "reason": "Vacation",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-31",
+        "end": "2026-04-01",
+        "reason": "Attending conference",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-02-11",
+        "end": "2026-02-17",
+        "reason": "Attending conference",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-13",
+        "end": "2026-03-19",
+        "reason": "Vacation",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-31",
+        "end": "2026-04-02",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-02-03",
+        "end": "2026-02-03",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-04-16",
+        "end": "2026-04-20",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-01-29",
+        "end": "2026-01-29",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-25",
+        "end": "2026-03-30",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-25",
+        "end": "2026-03-30",
+        "reason": "Vacation",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-02-18",
+        "end": "2026-02-18",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-18",
+        "end": "2026-03-24",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-26",
+        "end": "2026-03-27",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-02-06",
+        "end": "2026-02-09",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-03-20",
+        "end": "2026-03-21",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-03-09",
+        "end": "2026-03-10",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-01-31",
+        "end": "2026-02-05",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-02-17",
+        "end": "2026-02-19",
+        "reason": "Medical emergency",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-02-10",
+        "end": "2026-02-12",
+        "reason": "Family wedding",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-02-04",
+        "end": "2026-02-07",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-01-18",
+        "end": "2026-01-18",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-01-26",
+        "end": "2026-01-26",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-03-31",
+        "end": "2026-04-05",
+        "reason": "Medical emergency",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-01-29",
+        "end": "2026-02-01",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-03-30",
+        "end": "2026-03-30",
+        "reason": "Sick leave",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-02-17",
+        "end": "2026-02-17",
+        "reason": "Home maintenance",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-03-17",
+        "end": "2026-03-22",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-03-13",
+        "end": "2026-03-14",
+        "reason": "Child care",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-02-11",
+        "end": "2026-02-16",
+        "reason": "Family emergency",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E111",
+        "start": "2026-02-27",
+        "end": "2026-03-02",
+        "reason": "Attending conference",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E111",
+        "start": "2026-02-18",
+        "end": "2026-02-20",
+        "reason": "Personal work",
+        "dept_id": "DATA_SCIENCE",
+        "status": "APPROVED"
+      }
+    ]
+  },
+  "DEVOPS": {
+    "team_size": 12,
+    "approved_leaves": [
+      {
+        "emp_id": "E100",
+        "start": "2026-03-14",
+        "end": "2026-03-19",
+        "reason": "Home maintenance",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-02-15",
+        "end": "2026-02-15",
+        "reason": "Child care",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-10",
+        "end": "2026-03-14",
+        "reason": "Personal work",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-04-17",
+        "end": "2026-04-17",
+        "reason": "Personal work",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-31",
+        "end": "2026-04-01",
+        "reason": "Child care",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-20",
+        "end": "2026-03-21",
+        "reason": "Medical emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-07",
+        "end": "2026-03-07",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-03-07",
+        "end": "2026-03-07",
+        "reason": "Child care",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-04-04",
+        "end": "2026-04-08",
+        "reason": "Personal work",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-25",
+        "end": "2026-03-25",
+        "reason": "Personal work",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-02-04",
+        "end": "2026-02-09",
+        "reason": "Child care",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-09",
+        "end": "2026-03-12",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-02-02",
+        "end": "2026-02-06",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-12",
+        "end": "2026-03-14",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-03-03",
+        "end": "2026-03-08",
+        "reason": "Family emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-04-16",
+        "end": "2026-04-22",
+        "reason": "Family wedding",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-28",
+        "end": "2026-04-02",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-02-14",
+        "end": "2026-02-18",
+        "reason": "Medical emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-01-25",
+        "end": "2026-01-27",
+        "reason": "Family emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-01-27",
+        "end": "2026-02-02",
+        "reason": "Home maintenance",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-02-04",
+        "end": "2026-02-04",
+        "reason": "Home maintenance",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-03-16",
+        "end": "2026-03-16",
+        "reason": "Family wedding",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-02-20",
+        "end": "2026-02-24",
+        "reason": "Medical emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-01-25",
+        "end": "2026-01-27",
+        "reason": "Vacation",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E108",
+        "start": "2026-03-05",
+        "end": "2026-03-10",
+        "reason": "Medical emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-03-10",
+        "end": "2026-03-14",
+        "reason": "Home maintenance",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-01-26",
+        "end": "2026-01-27",
+        "reason": "Sick leave",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-01-20",
+        "end": "2026-01-22",
+        "reason": "Vacation",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E109",
+        "start": "2026-03-27",
+        "end": "2026-03-29",
+        "reason": "Family emergency",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-03-17",
+        "end": "2026-03-17",
+        "reason": "Vacation",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-04-13",
+        "end": "2026-04-18",
+        "reason": "Personal work",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E110",
+        "start": "2026-03-16",
+        "end": "2026-03-21",
+        "reason": "Child care",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E111",
+        "start": "2026-02-15",
+        "end": "2026-02-15",
+        "reason": "Vacation",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E111",
+        "start": "2026-03-22",
+        "end": "2026-03-24",
+        "reason": "Home maintenance",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E111",
+        "start": "2026-03-24",
+        "end": "2026-03-30",
+        "reason": "Vacation",
+        "dept_id": "DEVOPS",
+        "status": "APPROVED"
+      }
+    ]
+  },
+  "QA": {
+    "team_size": 8,
+    "approved_leaves": [
+      {
+        "emp_id": "E100",
+        "start": "2026-02-10",
+        "end": "2026-02-11",
+        "reason": "Personal work",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-02-04",
+        "end": "2026-02-10",
+        "reason": "Family emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E100",
+        "start": "2026-03-21",
+        "end": "2026-03-26",
+        "reason": "Medical emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-02-17",
+        "end": "2026-02-17",
+        "reason": "Family emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-01-24",
+        "end": "2026-01-27",
+        "reason": "Attending conference",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E101",
+        "start": "2026-03-17",
+        "end": "2026-03-21",
+        "reason": "Child care",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-02-28",
+        "end": "2026-03-02",
+        "reason": "Sick leave",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-02-17",
+        "end": "2026-02-20",
+        "reason": "Medical emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E102",
+        "start": "2026-04-12",
+        "end": "2026-04-13",
+        "reason": "Home maintenance",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-03-27",
+        "end": "2026-03-30",
+        "reason": "Personal work",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-01-31",
+        "end": "2026-02-04",
+        "reason": "Attending conference",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-01-31",
+        "end": "2026-02-02",
+        "reason": "Personal work",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E103",
+        "start": "2026-04-14",
+        "end": "2026-04-20",
+        "reason": "Medical emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-01-27",
+        "end": "2026-01-28",
+        "reason": "Home maintenance",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-04-16",
+        "end": "2026-04-21",
+        "reason": "Family wedding",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E104",
+        "start": "2026-02-02",
+        "end": "2026-02-04",
+        "reason": "Child care",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-03-21",
+        "end": "2026-03-23",
+        "reason": "Vacation",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E105",
+        "start": "2026-01-20",
+        "end": "2026-01-25",
+        "reason": "Medical emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-04-13",
+        "end": "2026-04-19",
+        "reason": "Home maintenance",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E106",
+        "start": "2026-04-11",
+        "end": "2026-04-16",
+        "reason": "Medical emergency",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-04-08",
+        "end": "2026-04-08",
+        "reason": "Attending conference",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-01-19",
+        "end": "2026-01-24",
+        "reason": "Child care",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      },
+      {
+        "emp_id": "E107",
+        "start": "2026-02-18",
+        "end": "2026-02-22",
+        "reason": "Personal work",
+        "dept_id": "QA",
+        "status": "APPROVED"
+      }
+    ]
+  }
+}

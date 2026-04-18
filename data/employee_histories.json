@@ -1,0 +1,452 @@
+{
+  "E100": {
+    "emp_id": "E100",
+    "total_leaves_taken": 11,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 7,
+    "last_leave_date": "2026-01-24",
+    "months_since_last_leave": 0.77,
+    "pattern_type": "weekend_lover"
+  },
+  "E101": {
+    "emp_id": "E101",
+    "total_leaves_taken": 12,
+    "unplanned_leaves": 7,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-19",
+    "months_since_last_leave": 0.93,
+    "pattern_type": "unplanned"
+  },
+  "E102": {
+    "emp_id": "E102",
+    "total_leaves_taken": 5,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-04-27",
+    "months_since_last_leave": 9.83,
+    "pattern_type": "burnout_risk"
+  },
+  "E103": {
+    "emp_id": "E103",
+    "total_leaves_taken": 14,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-18",
+    "months_since_last_leave": 0.97,
+    "pattern_type": "regular"
+  },
+  "E104": {
+    "emp_id": "E104",
+    "total_leaves_taken": 15,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 8,
+    "last_leave_date": "2026-01-18",
+    "months_since_last_leave": 0.97,
+    "pattern_type": "weekend_lover"
+  },
+  "E105": {
+    "emp_id": "E105",
+    "total_leaves_taken": 12,
+    "unplanned_leaves": 6,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-23",
+    "months_since_last_leave": 0.8,
+    "pattern_type": "unplanned"
+  },
+  "E106": {
+    "emp_id": "E106",
+    "total_leaves_taken": 9,
+    "unplanned_leaves": 5,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-01-25",
+    "months_since_last_leave": 0.73,
+    "pattern_type": "unplanned"
+  },
+  "E107": {
+    "emp_id": "E107",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 6,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-10",
+    "months_since_last_leave": 1.23,
+    "pattern_type": "unplanned"
+  },
+  "E108": {
+    "emp_id": "E108",
+    "total_leaves_taken": 13,
+    "unplanned_leaves": 5,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-06",
+    "months_since_last_leave": 1.37,
+    "pattern_type": "unplanned"
+  },
+  "E109": {
+    "emp_id": "E109",
+    "total_leaves_taken": 2,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-04-28",
+    "months_since_last_leave": 9.8,
+    "pattern_type": "burnout_risk"
+  },
+  "E110": {
+    "emp_id": "E110",
+    "total_leaves_taken": 9,
+    "unplanned_leaves": 8,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-17",
+    "months_since_last_leave": 1.0,
+    "pattern_type": "unplanned"
+  },
+  "E111": {
+    "emp_id": "E111",
+    "total_leaves_taken": 9,
+    "unplanned_leaves": 8,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-06",
+    "months_since_last_leave": 1.37,
+    "pattern_type": "unplanned"
+  },
+  "E112": {
+    "emp_id": "E112",
+    "total_leaves_taken": 12,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2026-01-23",
+    "months_since_last_leave": 0.8,
+    "pattern_type": "regular"
+  },
+  "E113": {
+    "emp_id": "E113",
+    "total_leaves_taken": 16,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 5,
+    "last_leave_date": "2026-01-22",
+    "months_since_last_leave": 0.83,
+    "pattern_type": "weekend_lover"
+  },
+  "E114": {
+    "emp_id": "E114",
+    "total_leaves_taken": 18,
+    "unplanned_leaves": 3,
+    "weekend_extensions": 8,
+    "last_leave_date": "2026-02-01",
+    "months_since_last_leave": 0.5,
+    "pattern_type": "weekend_lover"
+  },
+  "E115": {
+    "emp_id": "E115",
+    "total_leaves_taken": 5,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-07-10",
+    "months_since_last_leave": 7.37,
+    "pattern_type": "burnout_risk"
+  },
+  "E116": {
+    "emp_id": "E116",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2026-01-01",
+    "months_since_last_leave": 1.53,
+    "pattern_type": "regular"
+  },
+  "E117": {
+    "emp_id": "E117",
+    "total_leaves_taken": 2,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-05-28",
+    "months_since_last_leave": 8.8,
+    "pattern_type": "burnout_risk"
+  },
+  "E118": {
+    "emp_id": "E118",
+    "total_leaves_taken": 15,
+    "unplanned_leaves": 8,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-02-01",
+    "months_since_last_leave": 0.5,
+    "pattern_type": "unplanned"
+  },
+  "E119": {
+    "emp_id": "E119",
+    "total_leaves_taken": 13,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 1,
+    "last_leave_date": "2026-01-09",
+    "months_since_last_leave": 1.27,
+    "pattern_type": "regular"
+  },
+  "E120": {
+    "emp_id": "E120",
+    "total_leaves_taken": 2,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-04-27",
+    "months_since_last_leave": 9.83,
+    "pattern_type": "burnout_risk"
+  },
+  "E121": {
+    "emp_id": "E121",
+    "total_leaves_taken": 3,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-02-24",
+    "months_since_last_leave": 11.9,
+    "pattern_type": "burnout_risk"
+  },
+  "E122": {
+    "emp_id": "E122",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 5,
+    "last_leave_date": "2026-01-17",
+    "months_since_last_leave": 1.0,
+    "pattern_type": "weekend_lover"
+  },
+  "E123": {
+    "emp_id": "E123",
+    "total_leaves_taken": 11,
+    "unplanned_leaves": 7,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-01-20",
+    "months_since_last_leave": 0.9,
+    "pattern_type": "unplanned"
+  },
+  "E124": {
+    "emp_id": "E124",
+    "total_leaves_taken": 15,
+    "unplanned_leaves": 4,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-01-20",
+    "months_since_last_leave": 0.9,
+    "pattern_type": "unplanned"
+  },
+  "E125": {
+    "emp_id": "E125",
+    "total_leaves_taken": 11,
+    "unplanned_leaves": 4,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-26",
+    "months_since_last_leave": 0.7,
+    "pattern_type": "unplanned"
+  },
+  "E126": {
+    "emp_id": "E126",
+    "total_leaves_taken": 5,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-04-01",
+    "months_since_last_leave": 10.7,
+    "pattern_type": "burnout_risk"
+  },
+  "E127": {
+    "emp_id": "E127",
+    "total_leaves_taken": 18,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 5,
+    "last_leave_date": "2026-01-17",
+    "months_since_last_leave": 1.0,
+    "pattern_type": "weekend_lover"
+  },
+  "E128": {
+    "emp_id": "E128",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-24",
+    "months_since_last_leave": 0.77,
+    "pattern_type": "regular"
+  },
+  "E129": {
+    "emp_id": "E129",
+    "total_leaves_taken": 12,
+    "unplanned_leaves": 6,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-12",
+    "months_since_last_leave": 1.17,
+    "pattern_type": "unplanned"
+  },
+  "E130": {
+    "emp_id": "E130",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 4,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-12",
+    "months_since_last_leave": 1.17,
+    "pattern_type": "unplanned"
+  },
+  "E131": {
+    "emp_id": "E131",
+    "total_leaves_taken": 15,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 6,
+    "last_leave_date": "2026-01-25",
+    "months_since_last_leave": 0.73,
+    "pattern_type": "weekend_lover"
+  },
+  "E132": {
+    "emp_id": "E132",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-20",
+    "months_since_last_leave": 0.9,
+    "pattern_type": "regular"
+  },
+  "E133": {
+    "emp_id": "E133",
+    "total_leaves_taken": 13,
+    "unplanned_leaves": 6,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-01-25",
+    "months_since_last_leave": 0.73,
+    "pattern_type": "unplanned"
+  },
+  "E134": {
+    "emp_id": "E134",
+    "total_leaves_taken": 14,
+    "unplanned_leaves": 6,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-03",
+    "months_since_last_leave": 1.47,
+    "pattern_type": "unplanned"
+  },
+  "E135": {
+    "emp_id": "E135",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 2,
+    "last_leave_date": "2025-12-18",
+    "months_since_last_leave": 2.0,
+    "pattern_type": "regular"
+  },
+  "E136": {
+    "emp_id": "E136",
+    "total_leaves_taken": 2,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-06-13",
+    "months_since_last_leave": 8.27,
+    "pattern_type": "burnout_risk"
+  },
+  "E137": {
+    "emp_id": "E137",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 0,
+    "last_leave_date": "2026-01-13",
+    "months_since_last_leave": 1.13,
+    "pattern_type": "regular"
+  },
+  "E138": {
+    "emp_id": "E138",
+    "total_leaves_taken": 4,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-02-26",
+    "months_since_last_leave": 11.83,
+    "pattern_type": "burnout_risk"
+  },
+  "E139": {
+    "emp_id": "E139",
+    "total_leaves_taken": 3,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-03-18",
+    "months_since_last_leave": 11.17,
+    "pattern_type": "burnout_risk"
+  },
+  "E140": {
+    "emp_id": "E140",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 5,
+    "last_leave_date": "2026-02-05",
+    "months_since_last_leave": 0.37,
+    "pattern_type": "weekend_lover"
+  },
+  "E141": {
+    "emp_id": "E141",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 1,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-12-21",
+    "months_since_last_leave": 1.9,
+    "pattern_type": "regular"
+  },
+  "E142": {
+    "emp_id": "E142",
+    "total_leaves_taken": 10,
+    "unplanned_leaves": 7,
+    "weekend_extensions": 2,
+    "last_leave_date": "2026-01-15",
+    "months_since_last_leave": 1.07,
+    "pattern_type": "unplanned"
+  },
+  "E143": {
+    "emp_id": "E143",
+    "total_leaves_taken": 3,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-03-17",
+    "months_since_last_leave": 11.2,
+    "pattern_type": "burnout_risk"
+  },
+  "E144": {
+    "emp_id": "E144",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 1,
+    "last_leave_date": "2026-01-24",
+    "months_since_last_leave": 0.77,
+    "pattern_type": "regular"
+  },
+  "E145": {
+    "emp_id": "E145",
+    "total_leaves_taken": 4,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-04-07",
+    "months_since_last_leave": 10.5,
+    "pattern_type": "burnout_risk"
+  },
+  "E146": {
+    "emp_id": "E146",
+    "total_leaves_taken": 13,
+    "unplanned_leaves": 5,
+    "weekend_extensions": 4,
+    "last_leave_date": "2026-01-13",
+    "months_since_last_leave": 1.13,
+    "pattern_type": "unplanned"
+  },
+  "E147": {
+    "emp_id": "E147",
+    "total_leaves_taken": 8,
+    "unplanned_leaves": 7,
+    "weekend_extensions": 3,
+    "last_leave_date": "2026-01-02",
+    "months_since_last_leave": 1.5,
+    "pattern_type": "unplanned"
+  },
+  "E148": {
+    "emp_id": "E148",
+    "total_leaves_taken": 18,
+    "unplanned_leaves": 2,
+    "weekend_extensions": 7,
+    "last_leave_date": "2026-01-17",
+    "months_since_last_leave": 1.0,
+    "pattern_type": "weekend_lover"
+  },
+  "E149": {
+    "emp_id": "E149",
+    "total_leaves_taken": 5,
+    "unplanned_leaves": 0,
+    "weekend_extensions": 0,
+    "last_leave_date": "2025-02-22",
+    "months_since_last_leave": 11.97,
+    "pattern_type": "burnout_risk"
+  }
+}

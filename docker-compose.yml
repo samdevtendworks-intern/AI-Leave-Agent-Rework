@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  leave-agent-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: leave-agent-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=True
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - MIN_TEAM_CAPACITY_PERCENTAGE=70
+      - BURNOUT_THRESHOLD_MONTHS=6
+    volumes:
+      - ./data:/app/data:ro
+      - ./app:/app/app:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - leave-agent-network
+
+networks:
+  leave-agent-network:
+    driver: bridge
